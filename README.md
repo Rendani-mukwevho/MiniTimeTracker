@@ -1,0 +1,2 @@
+# MiniTimeTracker
+Mini time tracker
